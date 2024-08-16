@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
+import re
 
 if __name__ == "__main__":
     BASE_DIR = os.path.dirname(os.path.realpath(__file__))
